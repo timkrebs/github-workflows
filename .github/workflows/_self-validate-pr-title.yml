@@ -13,4 +13,4 @@ on:
 
 jobs:
   release:
-    uses: getindata/github-workflows/.github/workflows/gh-validate-pr-title.yml@main
+    uses: timkrebs/github-workflows/.github/workflows/gh-validate-pr-title.yml@main
