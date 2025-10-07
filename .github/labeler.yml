@@ -1,7 +1,6 @@
+documentation:
+  - docs/**
 bug:
-  - '**/*.js'
-  - '**/*.ts'
+  - src/**/bug*.js
 feature:
-  - 'src/features/**'
-docs:
-  - '**/*.md'
+  - src/features/**
