@@ -26,5 +26,6 @@ jobs:
             ci
             chore
           requireScope: false
-          subjectPattern: ^[A-Z].+$
+          subjectPattern: ^.+$
           wip: true
+
