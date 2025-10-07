@@ -1,0 +1,7 @@
+bug:
+  - '**/*.js'
+  - '**/*.ts'
+feature:
+  - 'src/features/**'
+docs:
+  - '**/*.md'
