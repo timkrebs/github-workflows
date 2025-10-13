@@ -17,7 +17,7 @@ jobs:
 
       - name: Check release label
         id: release-label
-        uses: actions/labeler@v4
+        uses: actions/labeler@v6
         if: ${{ github.event.pull_request.merged == true }}
 
       - name: Get latest tag
